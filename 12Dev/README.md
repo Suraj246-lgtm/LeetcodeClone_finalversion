@@ -55,7 +55,7 @@ A comprehensive, production-grade coding platform meticulously built to replicat
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Suraj246-lgtm/LeetcodeClone_finalversion
    cd 12Dev
    ```
 

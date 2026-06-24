@@ -49,8 +49,8 @@ const InitalizeConnection = async () => {
 
         await main();
         console.log("DB Connected");
-        await redisClient.connect();
-        console.log("Redis Connected");
+      //  await redisClient.connect();
+      //  console.log("Redis Connected");
 
         app.listen(process.env.PORT, () => {
             console.log("Server listening at port number: " + process.env.PORT);
